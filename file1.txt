@@ -6,7 +6,6 @@
 
 #Python Libraries
 1.Pandas
-2.Numoy
-3.Matplotlib
+2.Numpy
 
 ## Thank you
